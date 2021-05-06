@@ -5,6 +5,18 @@ synthesizer code generator
 
 - py 1synth.py
 
+- input the codes you want
+
+- if you input a4 2 , it means let synthesizer play Acode twice in quarter notes
+- fsm4 4 means let sysnthesizer play F#m code 
+
+
+
+> it plays codes you input using synthesizer's sound.
+
+> following example is money code popularly used in ballad.
+
+
 example input
 
 - a4 4
