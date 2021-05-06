@@ -33,3 +33,6 @@ example input
 - e4 4
 - a4 4
 - a1 1
+- 0
+
+0 means end of the code
